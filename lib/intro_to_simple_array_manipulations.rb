@@ -13,3 +13,6 @@ def using_uniq (haircuts)
 end 
 
 def using_flatten
+  
+  flat_array = using_flatten(instruments)
+end
