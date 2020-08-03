@@ -27,5 +27,5 @@ end
 
 def using_delete_at (famous_robots)
   eleted_robot = using_delete_at(famous_robots, 2)
-    expect(deleted_robot).to eq("Robocop")
+  
 end 
