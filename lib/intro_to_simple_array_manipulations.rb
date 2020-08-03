@@ -14,5 +14,5 @@ end
 
 def using_flatten(instruments)
   
-  flat_array = using_flatten
+  flat_array = instruments.flatten
 end
