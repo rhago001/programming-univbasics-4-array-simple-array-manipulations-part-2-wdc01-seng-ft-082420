@@ -9,6 +9,5 @@ end
 
 def using_uniq (haircuts)
   
-  new_array = using_uniq(haircuts)
-  
+  new_array = haircuts.uniq
 end 
