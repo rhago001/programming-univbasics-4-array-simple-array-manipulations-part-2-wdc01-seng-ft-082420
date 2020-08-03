@@ -19,6 +19,7 @@ end
 
 def using_delete(instructors)
   no_offense_steven = instructors.delete("Steven")
+  puts no_offense_steven
   
 end
 
