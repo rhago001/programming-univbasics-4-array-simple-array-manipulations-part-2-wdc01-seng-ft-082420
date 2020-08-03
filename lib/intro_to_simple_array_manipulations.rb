@@ -26,6 +26,6 @@ end
 
 
 def using_delete_at (famous_robots)
-  eleted_robot = using_delete_at(famous_robots, 2)
+  eleted_robot = famous_robots.delete_at(2)
   
 end 
