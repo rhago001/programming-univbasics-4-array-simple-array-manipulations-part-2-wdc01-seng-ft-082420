@@ -18,8 +18,8 @@ def using_flatten(instruments)
 end
 
 def using_delete(instructors)
-  return no_offense_steven = instructors.delete("Steven")
-  puts no_offense_steven
+  no_offense_steven = instructors.delete("Steven")
+  return  no_offense_steven
   
 end
 
